@@ -1,0 +1,7 @@
+{
+  "name": "Flash LavaCar - Premium Car Wash",
+  "description": "Uma landing page moderna e tecnológica para um lava-car premium, focada em conversão e visual impactante.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
